@@ -131,3 +131,7 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 
 ALTER TABLE DataCleaning_HousingData.dbo.NashvilleHousing
 DROP COLUMN SaleDate
+DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
+
+ALTER TABLE DataCleaning_HousingData.dbo.NashvilleHousing
+DROP COLUMN SaleDate
